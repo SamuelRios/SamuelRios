@@ -1,15 +1,15 @@
 ## Olá! Eu sou o Samuel Rios. 
  <div>
   <a href="https://github.com/SamuelRios">
-  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=SamuelRios&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRios&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=SamuelRios&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRios&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Capu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Capu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Capu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Capu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="200" style="" alt="Capu-yoda" src="https://media0.giphy.com/media/CUbEa92p9qz7YLYPOO/giphy.gif?cid=790b76118cb47288071096330f2be3138051f3c64fa3318a&rid=giphy.gif&ct=g">
+  <img align="right" height="150" style="" alt="Capu-yoda" src="https://media0.giphy.com/media/CUbEa92p9qz7YLYPOO/giphy.gif?cid=790b76118cb47288071096330f2be3138051f3c64fa3318a&rid=giphy.gif&ct=g">
 </div>
   
   ##
