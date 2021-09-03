@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Samuel Rios. 
  <div>
   <a href="https://github.com/SamuelRios">
-  <img height="200px" width="100%" src="https://github-readme-stats.vercel.app/api?username=SamuelRios&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRios&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=SamuelRios&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="203px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRios&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Capu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
