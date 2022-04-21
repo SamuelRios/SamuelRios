@@ -14,9 +14,6 @@
  <img align="center" alt="Capu-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
  <img align="center" alt="Capu-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
  <img align="center" alt="Capu-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
- 
-  <img align="right" height="150" style="" alt="Capu-yoda" src="https://media0.giphy.com/media/CUbEa92p9qz7YLYPOO/giphy.gif?cid=790b76118cb47288071096330f2be3138051f3c64fa3318a&rid=giphy.gif&ct=g">
-</div>
   
   ##
  
