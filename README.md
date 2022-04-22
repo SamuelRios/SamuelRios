@@ -1,4 +1,4 @@
-## Olá! Eu sou o Samuel Rios. 
+## Hello! I am Samuel Rios. 
  <div>
   <a href="https://github.com/SamuelRios">
   <img height="150px" width="400" src="https://github-readme-stats.vercel.app/api?username=SamuelRios&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
