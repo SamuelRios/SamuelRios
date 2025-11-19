@@ -25,3 +25,5 @@
   ![Snake animation](https://github.com/SamuelRios/SamuelRios/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+teste
